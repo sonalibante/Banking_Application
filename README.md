@@ -12,5 +12,5 @@ Created a server/client ready to send/receive information between each other wit
 
 # Screenshot of result:
 
+![Screenshot (197)](https://user-images.githubusercontent.com/35185184/107445356-ebcaae00-6b01-11eb-8834-de629ae45f08.png)
 
-![Screenshot (197)](https://user-images.githubusercontent.com/35185184/107445262-b32ad480-6b01-11eb-8002-948e07d69e20.png)
