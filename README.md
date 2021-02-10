@@ -1,6 +1,6 @@
 ## Getting Started
 
-Thread safe banking application that withdraws and deposit money in bank accounts.
+Used Visual Code to build thread safe banking application that withdraws and deposit money in bank accounts.
 
 ## Dependency Management
 
